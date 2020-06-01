@@ -1,10 +1,10 @@
-!/bin/bash
+#!/bin/bash
 
 BASEDIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 # vim
 ln -s ${BASEDIR}/vimrc ~/.vimrc
-ln -s ${BASEDIR}/vim/ ~/.vim
+ln -s ${BASEDIR}/vim/* ~/.vim/
 
 # zsh
 ln -s ${BASEDIR}/zshrc ~/.zshrc
@@ -16,4 +16,4 @@ ln -s ${BASEDIR}/gitconfig ~/.gitconfig
 ln -s ${BASEDIR}/XCompose ~/.XCompose
 
 # system
-ln -s ${BASEDIR}/config/ ~/.config
+ln -s ${BASEDIR}/config/* ~/.config/
