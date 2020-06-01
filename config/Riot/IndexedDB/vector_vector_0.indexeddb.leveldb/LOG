@@ -1,0 +1,70 @@
+2020/04/26-23:27:36.770 1e148 Reusing MANIFEST /home/theo/.config/Riot/IndexedDB/vector_vector_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/26-23:27:38.559 1e1ce Level-0 table #5: started
+2020/04/26-23:27:38.608 1e1ce Level-0 table #5: 2138 bytes OK
+2020/04/26-23:27:38.706 1e1ce Delete type=0 #3
+2020/04/26-23:27:38.707 1e1ce Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/04/26-23:27:38.854 1e1ce Level-0 table #7: started
+2020/04/26-23:27:38.903 1e1ce Level-0 table #7: 516 bytes OK
+2020/04/26-23:27:38.977 1e1ce Delete type=0 #4
+2020/04/26-23:27:38.977 1e1ce Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/04/26-23:31:25.310 1e1ce Level-0 table #9: started
+2020/04/26-23:31:25.369 1e1ce Level-0 table #9: 131820 bytes OK
+2020/04/26-23:31:25.443 1e1ce Delete type=0 #6
+2020/04/26-23:31:25.443 1e1ce Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x05\x02\x01\x01\x00-' @ 715 : 1
+2020/04/26-23:31:25.443 1e1ce Compacting 1@0 + 1@1 files
+2020/04/26-23:31:25.503 1e1ce Generated table #10@0: 408 keys, 13121 bytes
+2020/04/26-23:31:25.503 1e1ce Compacted 1@0 + 1@1 files => 13121 bytes
+2020/04/26-23:31:25.599 1e1ce compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/26-23:31:25.600 1e1ce Delete type=2 #9
+2020/04/26-23:31:25.600 1e1ce Manual compaction at level-0 from '\x00\x05\x05\x02\x01\x01\x00-' @ 715 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/04/26-23:31:25.696 1e1ce Level-0 table #12: started
+2020/04/26-23:31:25.745 1e1ce Level-0 table #12: 1082 bytes OK
+2020/04/26-23:31:25.819 1e1ce Delete type=0 #8
+2020/04/26-23:31:25.819 1e1ce Delete type=2 #7
+2020/04/26-23:31:25.819 1e1ce Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x03\x02\x04\x01\x01\x01\x00-' @ 1303 : 0
+2020/04/26-23:31:25.819 1e1ce Compacting 1@0 + 1@1 files
+2020/04/26-23:31:25.868 1e1ce Generated table #13@0: 356 keys, 11056 bytes
+2020/04/26-23:31:25.868 1e1ce Compacted 1@0 + 1@1 files => 11056 bytes
+2020/04/26-23:31:25.942 1e1ce compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/26-23:31:25.942 1e1ce Delete type=2 #12
+2020/04/26-23:31:25.942 1e1ce Manual compaction at level-0 from '\x00\x04\x03\x02\x04\x01\x01\x01\x00-' @ 1303 : 0 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/04/26-23:31:26.194 1e1ce Level-0 table #15: started
+2020/04/26-23:31:26.242 1e1ce Level-0 table #15: 577 bytes OK
+2020/04/26-23:31:26.316 1e1ce Delete type=0 #11
+2020/04/26-23:31:26.316 1e1ce Delete type=2 #10
+2020/04/26-23:31:26.317 1e1ce Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 1314 : 1
+2020/04/26-23:31:26.317 1e1ce Compacting 1@0 + 1@1 files
+2020/04/26-23:31:26.388 1e1ce Generated table #16@0: 362 keys, 11121 bytes
+2020/04/26-23:31:26.388 1e1ce Compacted 1@0 + 1@1 files => 11121 bytes
+2020/04/26-23:31:26.461 1e1ce compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/26-23:31:26.461 1e1ce Delete type=2 #15
+2020/04/26-23:31:26.462 1e1ce Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 1314 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/04/26-23:31:26.560 1e1ce Level-0 table #18: started
+2020/04/26-23:31:26.609 1e1ce Level-0 table #18: 466 bytes OK
+2020/04/26-23:31:26.683 1e1ce Delete type=0 #14
+2020/04/26-23:31:26.683 1e1ce Delete type=2 #13
+2020/04/26-23:31:26.684 1e1ce Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 1341 : 0
+2020/04/26-23:31:26.684 1e1ce Compacting 1@0 + 1@1 files
+2020/04/26-23:31:26.782 1e1ce Generated table #19@0: 364 keys, 11128 bytes
+2020/04/26-23:31:26.782 1e1ce Compacted 1@0 + 1@1 files => 11128 bytes
+2020/04/26-23:31:26.905 1e1ce compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/26-23:31:26.905 1e1ce Delete type=2 #18
+2020/04/26-23:31:26.905 1e1ce Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 1341 : 0 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/04/26-23:32:30.101 1e1ce Level-0 table #21: started
+2020/04/26-23:32:30.293 1e1ce Level-0 table #21: 1089737 bytes OK
+2020/04/26-23:32:30.416 1e1ce Delete type=0 #17
+2020/04/26-23:32:30.416 1e1ce Delete type=2 #16
+2020/04/26-23:32:59.865 1e1ce Level-0 table #23: started
+2020/04/26-23:33:00.029 1e1ce Level-0 table #23: 876064 bytes OK
+2020/04/26-23:33:00.165 1e1ce Delete type=0 #20
+2020/04/26-23:33:16.925 1e1ce Level-0 table #25: started
+2020/04/26-23:33:16.994 1e1ce Level-0 table #25: 919197 bytes OK
+2020/04/26-23:33:17.118 1e1ce Delete type=0 #22
+2020/04/26-23:33:26.522 1e1ce Compacting 3@0 + 1@1 files
+2020/04/26-23:33:26.673 1e1ce Generated table #26@0: 41711 keys, 2039241 bytes
+2020/04/26-23:33:26.673 1e1ce Compacted 3@0 + 1@1 files => 2039241 bytes
+2020/04/26-23:33:26.746 1e1ce compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/26-23:33:26.747 1e1ce Delete type=2 #25
+2020/04/26-23:33:26.747 1e1ce Delete type=2 #23
+2020/04/26-23:33:26.747 1e1ce Delete type=2 #21
+2020/04/26-23:33:26.747 1e1ce Delete type=2 #19

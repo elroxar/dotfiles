@@ -1,0 +1,7 @@
+IdeaVIM
+mobi.hsz.idea.gitignore
+BashSupport
+NodeJS
+com.jetbrains.intellij.datalore
+mobi.hsz.idea.latex
+nl.rubensten.texifyidea

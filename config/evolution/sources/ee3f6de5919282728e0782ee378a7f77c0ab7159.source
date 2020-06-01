@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=theo@thiedig.net
+Enabled=true
+Parent=3c6e720674b47beb61bad230eb2b641e3fc669f4
+
+[Mail Submission]
+SentFolder=folder://3c6e720674b47beb61bad230eb2b641e3fc669f4/Sent%20Messages
+TransportUid=d940edab5ae3cea65db7d29f6aff1c592dfac39c
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://3c6e720674b47beb61bad230eb2b641e3fc669f4/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://3c6e720674b47beb61bad230eb2b641e3fc669f4/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=theo@thiedig.net
+Aliases=
+Name=Theo Thiedig
+Organization=
+ReplyTo=
+SignatureUid=none
